@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(to right,#ffefbb,#fff)!important;
+  
+}
+
+.logotext a{
+    color: black;
+}
+.container-fluid{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   
+}
+.container-fluid a{
+    display: flex;
+    align-items: center;
+    
+   
+}
+.navbar-nav a{
+    text-transform: capitalize;
+    color: black;
+}
+.container .btn{
+    background: linear-gradient(90deg, yellow, rgb(238, 73, 73))!important;
+    border-radius: 20px;
+
+}

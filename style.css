@@ -7,22 +7,6 @@ body{
     background-image: linear-gradient(to right,#ffefbb,#fff)!important;
   
 }
-
-.logotext a{
-    color: black;
-}
-.container-fluid{
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-   
-}
-.container-fluid a{
-    display: flex;
-    align-items: center;
-    
-   
-}
 .navbar-nav a{
     text-transform: capitalize;
     color: black;
